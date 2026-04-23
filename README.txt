@@ -7,4 +7,4 @@ Ha szeretnél le generálni egy excel táblázatot érettségire akkor:
 
 
 Az 1. lépésnél a program fog generálni egy Excel fájlt, ami 8:00-tól kezdődően hozzáadja a diákokat 15p-es eltolással. Lásd: 1.diák 8:00, 2.diák 8:15
-A 2. lépésnél pedig kitölti a maradékot: Mikor 
+A 2. lépésnél pedig kitölti a maradékot: Diák neve, Behívás ideje, Tantárgy, Felelet kezdete, Felelet vége
