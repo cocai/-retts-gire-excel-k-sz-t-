@@ -4,9 +4,7 @@ from datetime import datetime, timedelta
 """ 
 -> Ember neve 
 -> Behívás időpontja (Kezdési idő pl.: 8:00, 15pt nő) 
--> Tételhúzás (+2p pl.: 8:02) 
--> Felkészülés kezdete (+3p pl.: 8:05) 
--> Felkészülés vége és felelet kezdete: (+25p pl.: 8:30) 
+-> Felkészülés vége és felelet kezdete: (+30p pl.: 8:30) 
 -> Felelet vége: (+15p pl.: 8:45) 
 
 """
