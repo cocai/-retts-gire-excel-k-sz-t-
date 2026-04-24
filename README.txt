@@ -1,5 +1,8 @@
 Üdv,
 
+-Szükséges : Python 3.13 interperenter, pandas module (pip install pandas)
+
+
 Ha szeretnél le generálni egy excel táblázatot érettségire akkor:
 
 1. lépés: Indítsa el a listahoz_adas.py-t és futtassa a programot. Irj be a diákok nevét illetve a tantárgyat (A tantárgyak monológját irja be). Pl: In(Idegen nyelv), I(irodalom)
